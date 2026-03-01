@@ -1,5 +1,5 @@
 # Assign values to variables
-a = 10
+a = 10D2
 b = 11
 
 # Print the values of a and b
